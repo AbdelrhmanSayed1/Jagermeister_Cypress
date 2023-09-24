@@ -17,5 +17,7 @@ Select according to the test cases you want to run.
 
 
 
+### Results will be displayed as the following
 
-  
+  ![image](https://github.com/AbdelrhmanSayed1/Jagermeister_Cypress/assets/64142081/c87750d8-e871-4518-a927-87f9830733c7)
+
